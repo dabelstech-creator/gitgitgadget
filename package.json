@@ -65,9 +65,9 @@
     "html-to-text": "^10.0.1",
     "json-stable-stringify": "^1.3.0",
     "jsonwebtoken": "^9.0.3",
-    "mailparser": "^3.9.15",
+    "mailparser": "^3.9.31",
     "marked": "^18.0.10",
-    "nodemailer": "^9.0.5",
+    "nodemailer": "^10.0.12",
     "rfc2047": "^4.0.1"
   },
   "engines": {
